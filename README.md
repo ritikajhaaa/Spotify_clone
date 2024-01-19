@@ -32,10 +32,9 @@ Welcome to the Spotify Clone project by [ritikajhaaa](https://github.com/ritikaj
 3. Open the `index.html` file in your web browser.
 
 ## Usage
-1. Log in or create a new account.
-2. Explore the music library, discover new tracks, and create playlists.
-3. Use the search feature to find specific songs, artists, or albums.
-4. Enjoy a personalized music experience tailored to your preferences.
+1. Explore the music library, discover new tracks, and create playlists.
+2. Use the search feature to find specific songs, artists, or albums.
+3. Enjoy a personalized music experience tailored to your preferences.
 
 
 ## Contributing
