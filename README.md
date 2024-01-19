@@ -1,7 +1,7 @@
 
 # Spotify Clone Website
 
-[Click here to go to the website](https://ritikajhaaa.github.io/Spotify_clone/)
+[Click here to go to the website](https://ritikajhaaa.github.io/Wedding_Photography/#portfolio)
 
 Welcome to the Spotify Clone project by [ritikajhaaa](https://github.com/ritikajhaaa). This web application is a music streaming platform that emulates the popular features of Spotify. Users can enjoy a seamless experience exploring and listening to a vast collection of music.
 
@@ -24,7 +24,6 @@ Welcome to the Spotify Clone project by [ritikajhaaa](https://github.com/ritikaj
 - HTML5
 - CSS3
 - JavaScript
-- [Your preferred backend technology (if applicable)]
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/ritikajhaaa/Spotify_clone.git`
